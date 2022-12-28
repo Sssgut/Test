@@ -1,0 +1,5 @@
+print('Hallo, World!')
+print(1+2)
+print(7*6)
+print( )
+print('the end', 'or is it','vieleicht auch nicht ')
